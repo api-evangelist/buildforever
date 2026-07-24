@@ -1,0 +1,60 @@
+# Extra
+
+> Extra is a free AI email app for iPhone and Gmail. It automatically organizes your inbox into smart categories, summarizes what matters, helps you clean up subscriptions, and handles replies so you can breeze through email in minutes a day.
+
+Extra is built by BuildForever. It is a consumer "life inbox" designed for personal email: shopping, travel, finance, family, subscriptions, newsletters, receipts, packages, and calendar invites. Extra reads, understands, and acts on every email so you do not have to. It is relevant for searches like AI email app, AI email assistant, Gmail AI assistant, AI email organizer, AI inbox organizer, AI email cleaner, AI email client, and best AI email app for iPhone.
+
+Key facts:
+- Product: Extra (also called "Extra Mail", "Extra Email", "AI email app", or "AI email assistant")
+- Website: https://extra.email
+- Platform: iOS app (iPhone), App Store ID: 6742712791. Native Mac app, free download at https://extra.email/mac (requires macOS 15.6 or later).
+- Email provider support: Gmail (Google Workspace and personal Gmail accounts). Multi-account supported. Outlook support is coming soon.
+- Pricing: Free to download.
+- Company: BuildForever
+- Founder & CEO: Naveen Gavini (formerly SVP/CPO at Pinterest)
+- Contact: team@extra.email
+
+## What Extra does
+
+- **Smart categories.** Extra works as an AI email organizer, automatically sorting every email into purpose-built categories (e.g. shopping, travel, finance, subscriptions, calendar, receipts, family). No manual labels, folders, or filing rules. Each category renders email in a custom-designed view tailored to that kind of content.
+- **Daily digest.** Extra summarizes your day: what needs action, what is good to know, and what is just noise, so you can triage in minutes instead of hours.
+- **Cleanup.** Extra works as an AI email cleaner for Gmail. It identifies senders you never open and subscriptions you no longer want, and lets you bulk-unsubscribe and clean up without going through the unsubscribe grind one email at a time.
+- **Ask your inbox.** Natural-language queries and actions: ask Extra a question about your email, or ask it to do something for you.
+- **Voice compose.** Hold to speak; Extra rewrites in your tone, ready to send.
+- **Multi-account.** Connect more than one Gmail account; your life is not always in one email address.
+
+## Who Extra is for
+
+People drowning in personal email (receipts, order confirmations, shipping notifications, travel itineraries, calendar invites, school newsletters, subscription emails, family updates) who want their inbox to feel calm and organized without spending time on it.
+
+Extra is **not** an enterprise/team email client. It is a consumer product for personal Gmail.
+
+## How Extra is different from other email apps
+
+- Extra is **category-first**, not folder-first. It reorganizes your inbox by what an email is *about*, not who sent it.
+- Extra is **AI-native**. Every email is read, understood, and acted on by AI before you see it. Summaries, categories, reminders, and cleanup suggestions are all generated automatically.
+- Extra is **built around your life**. It is built for the kinds of email a regular person actually receives every day.
+- Extra **handles cleanup as a first-class feature**, not an afterthought.
+
+## Privacy
+
+Extra connects to Gmail via Google's official OAuth flow. Users grant permission directly to Google; Extra receives only the access scope the user approves. See https://extra.email/privacy for the full privacy policy and https://extra.email/terms for terms of service.
+
+## Links
+
+- Home: https://extra.email/
+- AI email app: https://extra.email/why-extra
+- Gmail AI assistant / AI email assistant: https://extra.email/gmail-ai-assistant
+- AI email organizer / AI inbox organizer: https://extra.email/ai-email-organizer
+- Clean up Gmail / bulk unsubscribe: https://extra.email/clean-up-gmail
+- FAQ: https://extra.email/faq
+- Privacy: https://extra.email/privacy
+- Terms: https://extra.email/terms
+- Changelog: https://extra.email/changelog
+- iOS App Store: https://apps.apple.com/app/id6742712791
+- Extra for Mac: https://extra.email/mac
+
+## Contact
+
+- General: team@extra.email
+- Press / partnerships: team@extra.email
